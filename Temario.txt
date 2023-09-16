@@ -1,0 +1,6 @@
+NOTAS DE CLASE CICLO.JS
+
+	ciclos
+		while --> mientras
+		do while --> hacer mientras
+		for --> para
